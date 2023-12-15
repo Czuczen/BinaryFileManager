@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "ToFileLogLevel": "Debug",
+  "LogFilePath": "/Logs/app.log",
+  "MaxFileSizeBytes": 1048576,
+  "MaxFileCount": 5
+}
